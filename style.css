@@ -1,0 +1,21 @@
+.header{
+    background-color:orange;
+}
+
+.img-content{
+    object-fit: cover;
+    width: 100%;
+    height: 300px;
+    position: relative;
+    margin: 0px;
+}
+
+.puff{
+    border-bottom:2px solid grey;
+}
+
+.other-articles{
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding:4px;
+}
